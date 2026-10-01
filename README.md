@@ -56,10 +56,6 @@ I'm **Muhammad Qasim Afzal**, a Full-Stack Developer from **Lahore, Pakistan** ð
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=designerweb485&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=designerweb485&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="GitHub trophies"/>
-</p>
-
 ---
 
 ### ðŸš€ Featured Projects
