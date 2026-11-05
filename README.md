@@ -1,12 +1,12 @@
 <!--
-  Modern GitHub profile — paste into designerweb485/designerweb485/README.md
-  Commit BOTH: github_header.svg (recommended) and/or github_header.jpg
-  Pin claim-checker as #1 on your profile.
+  Paste into: designerweb485/designerweb485/README.md
+  REQUIRED: also upload github_header.jpg to the SAME repo root
+  (GitHub often blocks .svg headers — use .jpg)
 -->
 
 <div align="center">
 
-<img src="github_header.svg" alt="Muhammad Qasim Afzal — Senior Full-Stack Engineer" width="100%" />
+<img src="github_header.jpg" alt="Muhammad Qasim Afzal — Senior Full-Stack Engineer" width="100%" />
 
 # Muhammad Qasim Afzal
 
