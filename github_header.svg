@@ -1,21 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
   <title id="title">Muhammad Qasim Afzal</title>
   <desc id="desc">Senior Full-Stack Engineer ? healthcare systems and SaaS</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#09090B"/>
-      <stop offset="100%" stop-color="#12141A"/>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07080C"/>
+      <stop offset="45%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#07151A"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0"/>
-      <stop offset="40%" stop-color="#3B82F6"/>
+    <radialGradient id="glowA" cx="78%" cy="35%" r="42%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.28"/>
+      <stop offset="55%" stop-color="#3B82F6" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#07080C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="18%" cy="85%" r="35%">
+      <stop offset="0%" stop-color="#14B8A6" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#07080C" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#22D3EE"/>
+      <stop offset="80%" stop-color="#3B82F6"/>
       <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
     </linearGradient>
+    <linearGradient id="chip" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.03"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <style>
+      .rise { opacity: 0; animation: rise 1s ease forwards; }
+      .rise2 { opacity: 0; animation: rise 1s ease 0.18s forwards; }
+      .rise3 { opacity: 0; animation: rise 1s ease 0.36s forwards; }
+      .pulse { animation: pulse 3.2s ease-in-out infinite; }
+      @keyframes rise {
+        from { opacity: 0; transform: translateY(14px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.55; }
+        50% { opacity: 1; }
+      }
+    </style>
   </defs>
-  <rect width="1280" height="280" fill="url(#bg)"/>
-  <rect x="0" y="0" width="1280" height="1" fill="#27272A"/>
-  <rect x="0" y="279" width="1280" height="1" fill="#27272A"/>
-  <text x="72" y="132" fill="#FAFAFA" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="600" letter-spacing="-0.04em">Muhammad Qasim Afzal</text>
-  <text x="72" y="172" fill="#A1A1AA" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" letter-spacing="-0.01em">Senior Full-Stack Engineer · Healthcare systems &amp; SaaS</text>
-  <rect x="72" y="198" width="168" height="1.5" fill="url(#accent)"/>
+
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <rect width="1280" height="360" fill="url(#grid)"/>
+  <rect width="1280" height="360" fill="url(#glowA)"/>
+  <rect width="1280" height="360" fill="url(#glowB)"/>
+
+  <!-- soft orbs -->
+  <circle cx="1020" cy="90" r="120" fill="#22D3EE" fill-opacity="0.05"/>
+  <circle cx="1120" cy="220" r="90" fill="#3B82F6" fill-opacity="0.06"/>
+
+  <text class="rise" x="72" y="128" fill="#F8FAFC" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="46" font-weight="650" letter-spacing="-0.045em">Muhammad Qasim Afzal</text>
+
+  <text class="rise2" x="72" y="172" fill="#94A3B8" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="450" letter-spacing="-0.015em">Senior Full-Stack Engineer · Healthcare systems &amp; SaaS</text>
+
+  <rect class="pulse" x="72" y="196" width="200" height="2" rx="1" fill="url(#line)"/>
+
+  <!-- status chips -->
+  <g class="rise3" transform="translate(72, 230)">
+    <rect width="148" height="34" rx="17" fill="url(#chip)" stroke="#22D3EE" stroke-opacity="0.35"/>
+    <circle cx="18" cy="17" r="4" fill="#34D399"/>
+    <text x="32" y="22" fill="#E2E8F0" font-family="ui-sans-serif, system-ui, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Open to work</text>
+
+    <rect x="160" width="168" height="34" rx="17" fill="url(#chip)" stroke="#FFFFFF" stroke-opacity="0.10"/>
+    <text x="178" y="22" fill="#CBD5E1" font-family="ui-sans-serif, system-ui, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Medsynthea · 2026</text>
+
+    <rect x="340" width="132" height="34" rx="17" fill="url(#chip)" stroke="#FFFFFF" stroke-opacity="0.10"/>
+    <text x="358" y="22" fill="#CBD5E1" font-family="ui-sans-serif, system-ui, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">6+ yrs shipping</text>
+  </g>
 </svg>
