@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <rect width="1200" height="280" rx="16" fill="#0B0B0F"/>
+  <rect x="64" y="64" width="40" height="4" rx="2" fill="#8B5CF6"/>
+  <text x="64" y="138" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="52" font-weight="700" fill="#FFFFFF" letter-spacing="-1">Muhammad Qasim Afzal</text>
+  <text x="64" y="184" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="27" font-weight="500" fill="#D4D4D8">Senior Full-Stack Engineer</text>
+  <text x="64" y="226" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="20" fill="#8E8E96">TypeScript · NestJS · React · Angular · FHIR R4 · X12 EDI — Lahore, Pakistan</text>
+</svg>
