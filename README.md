@@ -32,6 +32,9 @@ TypeScript, JavaScript, React, Angular, Node.js, NestJS, MongoDB, Laravel, AWS, 
 ## Projects
 
 [Claim Checker](https://github.com/designerweb485/claim-checker) — Synthetic X12 837P claim validation. Next.js, Express, Prisma, PostgreSQL, Docker, CI. Screenshots and case study in the repo.
+Tissue ERP — Velvex Tissue (client project, private repo). Next.js and TypeScript ERP covering inventory, production, sales, purchases, dispatch and gate-pass, customer and vendor ledgers, and reporting.
+[Tradin](https://tradin.pk/) — Online stock trading platform for Pakistan.
+[ACSAS](https://acsas.co/) — Website for a fractional CFO and accounting services firm.
 [Portfolio](https://github.com/designerweb485/qasim-afzal-portfolio) — Personal portfolio. TypeScript.
 [Online Food](https://github.com/designerweb485/Onlinefood.com) — Food ordering frontend. [Live demo](https://designerweb485.github.io/Onlinefood.com/)
 
