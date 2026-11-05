@@ -1,94 +1,88 @@
 <!--
-  Paste into: designerweb485/designerweb485/README.md
-  REQUIRED: also upload github_header.jpg to the SAME repo root
-  (GitHub often blocks .svg headers — use .jpg)
+  Upload BOTH files to designerweb485/designerweb485 repo root:
+  - README.md  (this file)
+  - github_header.jpg  (short 1280×168 banner — NOT the old tall 16:9)
 -->
 
 <div align="center">
 
-<img src="github_header.jpg" alt="Muhammad Qasim Afzal — Senior Full-Stack Engineer" width="100%" />
+<img src="github_header.jpg" width="900" alt="Muhammad Qasim Afzal" />
 
-# Muhammad Qasim Afzal
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&height=36&lines=Senior+Full-Stack+Engineer;Healthcare+systems+%26+SaaS;Open+to+roles+%26+freelance+builds" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=1100&color=22D3EE&center=true&vCenter=true&width=640&height=32&lines=Senior+Full-Stack+Engineer;Healthcare+systems+%26+SaaS;Open+to+roles+%26+freelance+builds" alt="typing" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-qasim-afzal/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/designerweb485)
-[![Medsynthea](https://img.shields.io/badge/Building_at-Medsynthea-14B8A6?style=for-the-badge)](https://medsynthea.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-qasim-afzal/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/designerweb485)
+[![Medsynthea](https://img.shields.io/badge/Building%20at-Medsynthea-14B8A6?style=flat-square)](https://medsynthea.com/)
+[![Available](https://img.shields.io/badge/Status-Open%20to%20work-22C55E?style=flat-square)](https://www.linkedin.com/in/muhammad-qasim-afzal/)
 
 <br/>
 
-**I ship production healthcare systems end-to-end** — UI, API, data, integrations, deploy.
-
-Lahore, Pakistan · 6+ years shipping software
-
-</div>
-
----
-
-## Featured — Claim Checker
-
-Medical billing teams catch structural 837P mistakes late.  
-Claim Checker validates **synthetic** X12 837 Professional claims with a deterministic engine and org-scoped audit trail.
-
-<div align="center">
-
-| Dashboard | Findings |
-|:---------:|:--------:|
-| <img src="https://raw.githubusercontent.com/designerweb485/claim-checker/main/docs/screenshots/02-dashboard.png" width="420" alt="Dashboard" /> | <img src="https://raw.githubusercontent.com/designerweb485/claim-checker/main/docs/screenshots/04-findings.png" width="420" alt="Findings" /> |
-
-</div>
-
-- Same input + rule-set version → same findings, every time
-- Org-scoped API — no raw EDI in logs
-- Upload → parse → validate → findings → CSV
-
-> Synthetic fixtures only. Not HIPAA certified. Not an X12 IG conformance product.
-
-<div align="center">
-
-`Next.js` · `Express` · `Prisma` · `PostgreSQL` · `Docker` · `GitHub Actions`
-
-[Repository](https://github.com/designerweb485/claim-checker) · [Case study](https://github.com/designerweb485/claim-checker/blob/main/docs/case-study.md) · [10-minute demo](https://github.com/designerweb485/claim-checker/blob/main/docs/demo.md)
+I ship **production healthcare systems** end-to-end — UI · API · data · integrations · deploy  
+Lahore, Pakistan · 6+ years
 
 </div>
 
 ---
 
-## Work
+### Featured project
 
-**[Medsynthea](https://medsynthea.com/)** — Senior Software Engineer, 2026–Present  
-FHIR R4 EHR integrations: Epic, Athenahealth, eClinicalWorks, Oracle Health, Office Ally. Real-time eligibility and claims (X12 270/271) via Stedi, Availity, and Optum. HIPAA-oriented backends.
+#### [Claim Checker](https://github.com/designerweb485/claim-checker) — Synthetic X12 837P validation
 
-**[Ethisol](https://ethisol.com/)** — Full-Stack Developer (Contract), 2026–Present  
-MERN and Laravel products on AWS.
+Medical billing teams catch structural EDI mistakes late.  
+Deterministic rules · org-scoped API · upload → parse → validate → findings → CSV
 
-**[DocNow](https://docnow.ai/)** — MEAN Stack Developer, 2023–2026  
-Post-acute EHR — Angular, Node.js, MongoDB. JWT auth and RBAC in production clinical workflows.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/designerweb485/claim-checker/main/docs/screenshots/02-dashboard.png" width="380" alt="Dashboard" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/designerweb485/claim-checker/main/docs/screenshots/04-findings.png" width="380" alt="Findings" />
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/designerweb485/claim-checker)
+[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/designerweb485/claim-checker)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://github.com/designerweb485/claim-checker)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/designerweb485/claim-checker)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/designerweb485/claim-checker)
+
+[Repo](https://github.com/designerweb485/claim-checker) · [Case study](https://github.com/designerweb485/claim-checker/blob/main/docs/case-study.md) · [Demo](https://github.com/designerweb485/claim-checker/blob/main/docs/demo.md)
+
+<sub>Synthetic fixtures only · Not HIPAA / X12 IG certified</sub>
+
+</div>
 
 ---
 
-## Also shipped
+### Experience
 
-| Project | What |
-|---------|------|
-| **Tissue ERP** · Velvex (private) | Next.js / TypeScript — inventory, production, sales, purchases, dispatch, ledgers, reporting |
-| **[Tradin](https://tradin.pk/)** | Web platform for Abbasi & Company (PSX brokerage) |
-| **[ACSAS](https://acsas.co/)** | Site for a fractional CFO and accounting firm |
+<img src="https://img.shields.io/badge/2026–Present-0F172A?style=flat-square" alt="" /> **[Medsynthea](https://medsynthea.com/)** · Senior Software Engineer  
+FHIR R4 · Epic · Athena · eCW · Oracle Health · Office Ally · X12 270/271 · Stedi · Availity · Optum
+
+<img src="https://img.shields.io/badge/2026–Present-0F172A?style=flat-square" alt="" /> **[Ethisol](https://ethisol.com/)** · Full-Stack (Contract)  
+MERN · Laravel · AWS
+
+<img src="https://img.shields.io/badge/2023–2026-0F172A?style=flat-square" alt="" /> **[DocNow](https://docnow.ai/)** · MEAN Stack Developer  
+Post-acute EHR · Angular · Node.js · MongoDB · JWT · RBAC
+
+---
+
+### Also shipped
+
+[![Tissue ERP](https://img.shields.io/badge/Tissue%20ERP-Velvex%20private-14B8A6?style=for-the-badge)](https://www.linkedin.com/in/muhammad-qasim-afzal/)
+[![Tradin](https://img.shields.io/badge/Tradin-PSX%20brokerage-3B82F6?style=for-the-badge)](https://tradin.pk/)
+[![ACSAS](https://img.shields.io/badge/ACSAS-Fractional%20CFO-6366F1?style=for-the-badge)](https://acsas.co/)
 
 ---
 
 <div align="center">
 
-## Stack
+### Stack
 
-<img src="https://skillicons.dev/icons?i=ts,react,angular,nextjs,nodejs,nestjs,express,postgres,mongodb,prisma,aws,docker,github&theme=dark" alt="Tech stack" />
-
-<br/><br/>
-
-TypeScript · React · Angular · Next.js · Node.js · NestJS · Express · PostgreSQL · Prisma · MongoDB · Laravel · AWS · FHIR R4 · X12 EDI · Docker
+<img src="https://skillicons.dev/icons?i=ts,react,angular,nextjs,nodejs,nestjs,express,postgres,mongodb,prisma,aws,docker,github&theme=dark" alt="Stack" />
 
 </div>
 
@@ -96,11 +90,11 @@ TypeScript · React · Angular · Next.js · Node.js · NestJS · Express · Pos
 
 <div align="center">
 
-## Contact
+### Let's build
 
-Open to **senior full-stack roles** and **freelance product builds**.
+Open to **senior full-stack roles** and **freelance product builds**
 
-[![LinkedIn](https://img.shields.io/badge/Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-qasim-afzal/)
+[![Talk on LinkedIn](https://img.shields.io/badge/Talk_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-qasim-afzal/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/designerweb485)
 
 </div>
