@@ -1,9 +1,25 @@
+![Muhammad Qasim Afzal — Senior Full-Stack Engineer](github_header.svg)
+
 # Muhammad Qasim Afzal
 
 Senior Full-Stack Engineer — Lahore, Pakistan
 Currently Senior Software Engineer at Medsynthea.
 
 I build production healthcare systems and SaaS products end-to-end: frontend, API, database, and deployment.
+
+## Featured Project
+
+**Claim Checker** — Synthetic X12 837P claim validation for medical billing teams.
+
+![Claim Checker dashboard](https://raw.githubusercontent.com/designerweb485/claim-checker/main/docs/screenshots/02-dashboard.png)
+
+- Deterministic validation engine — same input, same findings, every time
+- Org-scoped API with audit boundaries — no raw EDI in logs
+- Full pipeline: upload → parse → validate → findings → CSV export
+
+Next.js · Express · Prisma · PostgreSQL · Docker · GitHub Actions
+
+[Repository](https://github.com/designerweb485/claim-checker) · [Case study](https://github.com/designerweb485/claim-checker/blob/main/docs/case-study.md) · [Demo](https://github.com/designerweb485/claim-checker/blob/main/docs/demo.md)
 
 ## Work
 
@@ -32,7 +48,7 @@ TypeScript, JavaScript, React, Angular, Node.js, NestJS, MongoDB, Laravel, AWS, 
 ## Projects
 
 [Claim Checker](https://github.com/designerweb485/claim-checker) — Synthetic X12 837P claim validation. Next.js, Express, Prisma, PostgreSQL, Docker, CI. Screenshots and case study in the repo.
-Tissue ERP — Velvex Tissue (client project, private repo). Next.js and TypeScript ERP covering inventory, production, sales, purchases, dispatch and gate-pass, customer and vendor ledgers, and reporting.
+[Tissue ERP](https://tradin.pk/) — Velvex tissue (client project, private repo). Next.js and TypeScript ERP covering inventory, production, sales, purchases, dispatch and gate-pass, customer and vendor ledgers, and reporting.
 [Tradin](https://tradin.pk/) — Online stock trading platform for Pakistan.
 [ACSAS](https://acsas.co/) — Website for a fractional CFO and accounting services firm.
 [Portfolio](https://github.com/designerweb485/qasim-afzal-portfolio) — Personal portfolio. TypeScript.
