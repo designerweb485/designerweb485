@@ -1,48 +1,54 @@
+<!--
+  10/10 profile — paste into designerweb485/designerweb485/README.md
+  Commit github_header.svg in the same repo root.
+  Pin claim-checker as #1 on your GitHub profile.
+-->
+
 ![Muhammad Qasim Afzal — Senior Full-Stack Engineer](github_header.svg)
 
 # Muhammad Qasim Afzal
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1400&color=A1A1AA&center=false&vCenter=true&width=620&height=28&lines=Senior+Full-Stack+Engineer+%C2%B7+Lahore%2C+Pakistan;Open+to+senior+roles+%26+freelance+product+builds" alt="Status" />
-</p>
+Senior Full-Stack Engineer · Lahore, Pakistan  
+Building at [Medsynthea](https://medsynthea.com/) · Open to senior roles and freelance product builds
 
-Senior Software Engineer at [Medsynthea](https://medsynthea.com/).  
-I ship production healthcare systems and SaaS end-to-end — frontend, API, data, and deploy.
+I design and ship production healthcare systems end-to-end — UI, API, data, integrations, and deploy.
 
-## Featured
+## Featured — Claim Checker
 
-**Claim Checker** — Synthetic X12 837P claim validation for medical billing teams.
+Medical billing teams catch structural 837P mistakes late. Claim Checker validates **synthetic** X12 837 Professional claims with a deterministic engine and an org-scoped audit trail.
 
-![Claim Checker dashboard](https://raw.githubusercontent.com/designerweb485/claim-checker/main/docs/screenshots/02-dashboard.png)
+| Dashboard | Findings |
+|:---------:|:--------:|
+| ![Dashboard](https://raw.githubusercontent.com/designerweb485/claim-checker/main/docs/screenshots/02-dashboard.png) | ![Findings](https://raw.githubusercontent.com/designerweb485/claim-checker/main/docs/screenshots/04-findings.png) |
 
-- Deterministic rules — same input, same findings, every time
-- Org-scoped API with audit boundaries — no raw EDI in logs
-- Full pipeline: upload → parse → validate → findings → CSV export
+- Same input + rule-set version → same findings, every time
+- Org-scoped API — no raw EDI in logs
+- Upload → parse → validate → findings → CSV
 
-Synthetic demo only — not HIPAA or X12 IG certified.
+Synthetic fixtures only. Not HIPAA certified. Not an X12 IG conformance product.
 
-`Next.js` · `Express` · `Prisma` · `PostgreSQL` · `Docker` · `GitHub Actions`
+Next.js · Express · Prisma · PostgreSQL · Docker · GitHub Actions
 
-[Repository](https://github.com/designerweb485/claim-checker) · [Case study](https://github.com/designerweb485/claim-checker/blob/main/docs/case-study.md) · [Demo](https://github.com/designerweb485/claim-checker/blob/main/docs/demo.md)
+[Repository](https://github.com/designerweb485/claim-checker) · [Case study](https://github.com/designerweb485/claim-checker/blob/main/docs/case-study.md) · [10-minute demo](https://github.com/designerweb485/claim-checker/blob/main/docs/demo.md) · `docker compose up --build`
 
 ## Work
 
 **[Medsynthea](https://medsynthea.com/)** — Senior Software Engineer, 2026–Present  
-EHR integrations with Epic, Athenahealth, eClinicalWorks, Oracle Health, and Office Ally over FHIR R4. Real-time eligibility and claims via X12 270/271 through Stedi, Availity, and Optum. HIPAA-oriented backend systems.
+FHIR R4 EHR integrations: Epic, Athenahealth, eClinicalWorks, Oracle Health, Office Ally. Real-time eligibility and claims (X12 270/271) via Stedi, Availity, and Optum. HIPAA-oriented backends.
 
 **[Ethisol](https://ethisol.com/)** — Full-Stack Developer (Contract), 2026–Present  
-MERN and Laravel applications on AWS.
+MERN and Laravel products on AWS.
 
 **[DocNow](https://docnow.ai/)** — MEAN Stack Developer, 2023–2026  
-Post-acute EHR — Angular, Node.js, MongoDB. JWT authentication and role-based access control.
+Post-acute EHR — Angular, Node.js, MongoDB. JWT auth and RBAC in production clinical workflows.
 
-6+ years shipping software · [LinkedIn](https://www.linkedin.com/in/muhammad-qasim-afzal/)
+6+ years shipping software · [Full history on LinkedIn](https://www.linkedin.com/in/muhammad-qasim-afzal/)
 
 ## Also shipped
 
-| Project | What |
-|---------|------|
-| **Tissue ERP** (Velvex, private) | Next.js / TypeScript ERP — inventory, production, sales, purchases, dispatch, ledgers, reporting |
+| | |
+|---|---|
+| **Tissue ERP** · Velvex (private) | Next.js / TypeScript — inventory, production, sales, purchases, dispatch, ledgers, reporting |
 | **[Tradin](https://tradin.pk/)** | Web platform for Abbasi & Company (PSX brokerage) |
 | **[ACSAS](https://acsas.co/)** | Site for a fractional CFO and accounting firm |
 
