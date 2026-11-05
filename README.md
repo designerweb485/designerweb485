@@ -7,13 +7,13 @@ I build production healthcare systems and SaaS products end-to-end: frontend, AP
 
 ## Work
 
-**Medsynthea** — Senior Software Engineer, 2026–Present
+**[Medsynthea](https://medsynthea.com/)** — Senior Software Engineer, 2026–Present
 EHR integrations with Epic, Athenahealth, eClinicalWorks, Oracle Health, and Office Ally over FHIR R4. Real-time eligibility and claims via X12 270/271 through Stedi, Availity, and Optum. HIPAA-compliant backend systems.
 
 **Ethisol** — Full-Stack Developer (Contract), 2026–Present
 MERN and Laravel applications on AWS.
 
-**DocNow** — MEAN Stack Developer, 2023–2026
+**[DocNow](https://docnow.ai/)** — MEAN Stack Developer, 2023–2026
 EHR product built with Angular, Node.js, and MongoDB. Authentication with JWT and role-based access control.
 
 6+ years shipping software. Full history: [LinkedIn](https://www.linkedin.com/in/muhammad-qasim-afzal/)
@@ -31,8 +31,9 @@ TypeScript, JavaScript, React, Angular, Node.js, NestJS, MongoDB, Laravel, AWS, 
 
 ## Projects
 
+[Claim Checker](https://github.com/designerweb485/claim-checker) — Synthetic X12 837P claim validation. Next.js, Express, Prisma, PostgreSQL, Docker, CI. Screenshots and case study in the repo.
 [Portfolio](https://github.com/designerweb485/qasim-afzal-portfolio) — Personal portfolio. TypeScript.
-[Online Food](https://github.com/designerweb485/Onlinefood.com) — Food ordering frontend. Responsive UI.
+[Online Food](https://github.com/designerweb485/Onlinefood.com) — Food ordering frontend. [Live demo](https://designerweb485.github.io/Onlinefood.com/)
 
 ## Contact
 
