@@ -1,84 +1,41 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Qasim%20Afzal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+# Muhammad Qasim Afzal
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Angular+%7C+Node.js+%7C+NestJS;I+build+systems+businesses+rely+on+%F0%9F%92%BC" alt="Typing SVG" />
-</p>
+Senior Full-Stack Engineer — Lahore, Pakistan
+Currently Senior Software Engineer at Medsynthea.
 
-<p align="center">
-  <i>"I don't just build applications. I build systems businesses rely on every day."</i>
-</p>
+I build production healthcare systems and SaaS products end-to-end: frontend, API, database, and deployment.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-qasim-afzal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/designerweb485"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=designerweb485&color=8b5cf6&style=for-the-badge" alt="Profile views"/>
-</p>
+## Work
 
----
+**Medsynthea** — Senior Software Engineer, 2026–Present
+EHR integrations with Epic, Athenahealth, eClinicalWorks, Oracle Health, and Office Ally over FHIR R4. Real-time eligibility and claims via X12 270/271 through Stedi, Availity, and Optum. HIPAA-compliant backend systems.
 
-### 👋 About Me
+**Ethisol** — Full-Stack Developer (Contract), 2026–Present
+MERN and Laravel applications on AWS.
 
-I'm **Muhammad Qasim Afzal**, a Full-Stack Developer from **Lahore, Pakistan** 🇵🇰, currently building at **Medsynthea**. I turn ideas into fast, scalable, production-ready products — from pixel-perfect front-ends to rock-solid back-ends.
+**DocNow** — MEAN Stack Developer, 2023–2026
+EHR product built with Angular, Node.js, and MongoDB. Authentication with JWT and role-based access control.
 
-- 🔭 Currently **open to new opportunities & freelance projects**
-- ⚡ I care about clean code, great UX, and shipping on time
-- 💬 Ask me about **React, Angular, Node.js, NestJS, SaaS products**
+6+ years shipping software. Full history: [LinkedIn](https://www.linkedin.com/in/muhammad-qasim-afzal/)
 
----
+## What I own end-to-end
 
-### 💼 What I Can Do For You
+- Product frontends in React and Angular
+- APIs and services in Node.js and NestJS
+- Data, auth, and integrations — FHIR R4, X12, REST, third-party APIs
+- Deployment and operation on AWS
 
-| | |
-|---|---|
-| 🌐 **Web Development** | Modern, responsive websites built with React & Angular |
-| ☁️ **SaaS Development** | End-to-end SaaS products — from MVP to scale |
-| 🛠️ **Custom Software** | Tailored solutions that solve real business problems |
-| 🗄️ **Backend & APIs** | Secure, scalable APIs with Node.js & NestJS |
+## Stack
 
----
+TypeScript, JavaScript, React, Angular, Node.js, NestJS, MongoDB, Laravel, AWS, FHIR R4, X12 EDI
 
-### 🛠️ Tech Arsenal
+## Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind,nodejs,nestjs,git,github,vscode&theme=dark" alt="Tech stack" />
-</p>
+[Portfolio](https://github.com/designerweb485/qasim-dev-porfolio-6678) — Personal portfolio. TypeScript.
+[Online Food](https://github.com/designerweb485/Onlinefood.com) — Food ordering frontend. Responsive UI.
 
----
+## Contact
 
-### 📊 GitHub Stats
+Open to senior full-stack roles and freelance product builds.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=designerweb485&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=designerweb485&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=designerweb485&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-**💼 Developer Portfolio** — Personal portfolio showcasing my work, built with TypeScript.
-🔗 [View repository](https://github.com/designerweb485/qasim-dev-porfolio-6678)
-
-**🍔 Online Food Website** — Food ordering front-end with a clean, responsive UI.
-🔗 [View repository](https://github.com/designerweb485/Onlinefood.com)
-
----
-
-### 🤝 Let's Work Together
-
-<p align="center">
-  <b>Have a project in mind? An idea you want to turn into reality?</b><br/><br/>
-  <a href="https://www.linkedin.com/in/muhammad-qasim-afzal/"><img src="https://img.shields.io/badge/Let's_Talk-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's talk"/></a>
-</p>
-
-<p align="center">
-  <i>📩 Fast response · 💎 Quality work · 🚀 On-time delivery</i>
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+[LinkedIn](https://www.linkedin.com/in/muhammad-qasim-afzal/) · [GitHub](https://github.com/designerweb485)
