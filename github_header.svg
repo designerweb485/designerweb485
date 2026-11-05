@@ -29,47 +29,28 @@
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
     </pattern>
-    <style>
-      .rise { opacity: 0; animation: rise 1s ease forwards; }
-      .rise2 { opacity: 0; animation: rise 1s ease 0.18s forwards; }
-      .rise3 { opacity: 0; animation: rise 1s ease 0.36s forwards; }
-      .pulse { animation: pulse 3.2s ease-in-out infinite; }
-      @keyframes rise {
-        from { opacity: 0; transform: translateY(14px); }
-        to { opacity: 1; transform: translateY(0); }
-      }
-      @keyframes pulse {
-        0%, 100% { opacity: 0.55; }
-        50% { opacity: 1; }
-      }
-    </style>
   </defs>
 
   <rect width="1280" height="360" fill="url(#bg)"/>
   <rect width="1280" height="360" fill="url(#grid)"/>
   <rect width="1280" height="360" fill="url(#glowA)"/>
   <rect width="1280" height="360" fill="url(#glowB)"/>
-
-  <!-- soft orbs -->
   <circle cx="1020" cy="90" r="120" fill="#22D3EE" fill-opacity="0.05"/>
   <circle cx="1120" cy="220" r="90" fill="#3B82F6" fill-opacity="0.06"/>
 
-  <text class="rise" x="72" y="128" fill="#F8FAFC" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="46" font-weight="650" letter-spacing="-0.045em">Muhammad Qasim Afzal</text>
+  <text x="72" y="128" fill="#F8FAFC" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="600" letter-spacing="-1">Muhammad Qasim Afzal</text>
+  <text x="72" y="172" fill="#94A3B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400">Senior Full-Stack Engineer · Healthcare systems &amp; SaaS</text>
+  <rect x="72" y="196" width="200" height="2" rx="1" fill="url(#line)"/>
 
-  <text class="rise2" x="72" y="172" fill="#94A3B8" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="450" letter-spacing="-0.015em">Senior Full-Stack Engineer · Healthcare systems &amp; SaaS</text>
-
-  <rect class="pulse" x="72" y="196" width="200" height="2" rx="1" fill="url(#line)"/>
-
-  <!-- status chips -->
-  <g class="rise3" transform="translate(72, 230)">
+  <g transform="translate(72, 230)">
     <rect width="148" height="34" rx="17" fill="url(#chip)" stroke="#22D3EE" stroke-opacity="0.35"/>
     <circle cx="18" cy="17" r="4" fill="#34D399"/>
-    <text x="32" y="22" fill="#E2E8F0" font-family="ui-sans-serif, system-ui, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Open to work</text>
+    <text x="32" y="22" fill="#E2E8F0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Open to work</text>
 
     <rect x="160" width="168" height="34" rx="17" fill="url(#chip)" stroke="#FFFFFF" stroke-opacity="0.10"/>
-    <text x="178" y="22" fill="#CBD5E1" font-family="ui-sans-serif, system-ui, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Medsynthea · 2026</text>
+    <text x="178" y="22" fill="#CBD5E1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Medsynthea · 2026</text>
 
     <rect x="340" width="132" height="34" rx="17" fill="url(#chip)" stroke="#FFFFFF" stroke-opacity="0.10"/>
-    <text x="358" y="22" fill="#CBD5E1" font-family="ui-sans-serif, system-ui, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">6+ yrs shipping</text>
+    <text x="358" y="22" fill="#CBD5E1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">6+ yrs shipping</text>
   </g>
 </svg>
