@@ -31,7 +31,7 @@ TypeScript, JavaScript, React, Angular, Node.js, NestJS, MongoDB, Laravel, AWS, 
 
 ## Projects
 
-[Portfolio](https://github.com/designerweb485/qasim-dev-porfolio-6678) — Personal portfolio. TypeScript.
+[Portfolio](https://github.com/designerweb485/qasim-afzal-portfolio) — Personal portfolio. TypeScript.
 [Online Food](https://github.com/designerweb485/Onlinefood.com) — Food ordering frontend. Responsive UI.
 
 ## Contact
