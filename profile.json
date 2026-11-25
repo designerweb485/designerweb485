@@ -28,7 +28,7 @@
     "value": "Senior Software Engineer @ Medsynthea",
     "as_of": "2026-11-26"
   },
-  "links": {
+    "links": {
     "github": {
       "label": "GitHub",
       "handle": "@designerweb485",
@@ -39,10 +39,10 @@
       "handle": "muhammad-qasim-afzal",
       "url": "https://www.linkedin.com/in/muhammad-qasim-afzal/"
     },
-    "web": {
-      "label": "Web",
-      "handle": "medsynthea.com",
-      "url": "https://medsynthea.com/"
+    "email": {
+      "label": "Email",
+      "handle": "afzalqasim30@gmail.com",
+      "url": "mailto:afzalqasim30@gmail.com"
     }
   },
   "apps": [

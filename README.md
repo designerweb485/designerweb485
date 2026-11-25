@@ -3,10 +3,12 @@
 <p align="center">
 <a href="https://github.com/designerweb485"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-gh-dark.svg"><img src="assets/badge-gh-light.svg" height="44" alt="GitHub @designerweb485"></picture></a>
 <a href="https://www.linkedin.com/in/muhammad-qasim-afzal/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-li-dark.svg"><img src="assets/badge-li-light.svg" height="44" alt="LinkedIn muhammad-qasim-afzal"></picture></a>
-<a href="https://medsynthea.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-web-dark.svg"><img src="assets/badge-web-light.svg" height="44" alt="Web medsynthea.com"></picture></a>
+<a href="mailto:afzalqasim30@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-email-dark.svg"><img src="assets/badge-email-light.svg" height="44" alt="Email afzalqasim30@gmail.com"></picture></a>
 </p>
 
 <picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/github-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/github-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg"><img src="assets/github-light.svg" width="100%" alt="On GitHub: 19 contributions in the last year, no streak right now, longest streak 2 days, 41 contributions since 2020, 6 public repos, 0 stars earned, 0 downloads of my releases."></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg"><img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution city"></picture>
 
 <picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-6m-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-6m-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-6m-dark.svg"><img src="assets/graph-6m-light.svg" width="100%" alt="19 contributions in the last 6 months"></picture>
 
@@ -19,24 +21,6 @@
 <details><summary>2026: 19 contributions</summary>
 
 <picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2026-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2026-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2026-dark.svg"><img src="assets/graph-2026-light.svg" width="100%" alt="19 contributions in 2026"></picture>
-
-</details>
-
-<details><summary>2025: 0 contributions</summary>
-
-<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2025-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2025-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2025-dark.svg"><img src="assets/graph-2025-light.svg" width="100%" alt="0 contributions in 2025"></picture>
-
-</details>
-
-<details><summary>2024: 0 contributions</summary>
-
-<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2024-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2024-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2024-dark.svg"><img src="assets/graph-2024-light.svg" width="100%" alt="0 contributions in 2024"></picture>
-
-</details>
-
-<details><summary>2023: 0 contributions</summary>
-
-<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2023-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2023-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2023-dark.svg"><img src="assets/graph-2023-light.svg" width="100%" alt="0 contributions in 2023"></picture>
 
 </details>
 

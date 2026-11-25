@@ -304,11 +304,16 @@ def line_chart(t, data, today, phone=False):
 
 
 def graph_specs(data, today):
-    """[(key, summary or None, start, end, words)] in README order: 6 months, 12 months, then 2026 back to the first year."""
+    """[(key, summary or None, start, end, words)] — 6m, 12m, then years that have contribs (always keep current year)."""
     c = data["contrib"]
+    days = c["days"]
     first = date.fromisoformat(c["grid"]["first"])
     specs = [("6m", None), ("12m", "Last 12 months")]
-    specs += [(str(y), str(y)) for y in range(today.year, c["since_year"] - 1, -1)]
+    for y in range(today.year, c["since_year"] - 1, -1):
+        start, end, words = range_of(str(y), today, first)
+        total = total_of(cells_of(days, start, end))
+        if y == today.year or total > 0:
+            specs.append((str(y), str(y)))
     out = []
     for key, summary in specs:
         start, end, words = range_of(key, today, first)
