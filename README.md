@@ -6,19 +6,19 @@
 <a href="mailto:afzalqasim30@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-email-dark.svg"><img src="assets/badge-email-light.svg" height="44" alt="Email afzalqasim30@gmail.com"></picture></a>
 </p>
 
-<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/github-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/github-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg"><img src="assets/github-light.svg" width="100%" alt="On GitHub: 19 contributions in the last year, no streak right now, longest streak 2 days, 41 contributions since 2020, 6 public repos, 0 stars earned, 0 downloads of my releases."></picture>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/github-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/github-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg"><img src="assets/github-light.svg" width="100%" alt="On GitHub: 603 contributions in the last year, a 2-day current streak, since 23 Nov, longest streak 7 days, 625 contributions since 2020, 6 public repos, 0 stars earned, 0 downloads of my releases."></picture>
 
-<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-6m-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-6m-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-6m-dark.svg"><img src="assets/graph-6m-light.svg" width="100%" alt="19 contributions in the last 6 months"></picture>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-6m-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-6m-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-6m-dark.svg"><img src="assets/graph-6m-light.svg" width="100%" alt="568 contributions in the last 6 months"></picture>
 
-<details><summary>Last 12 months: 19 contributions</summary>
+<details><summary>Last 12 months: 603 contributions</summary>
 
-<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-12m-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-12m-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-12m-dark.svg"><img src="assets/graph-12m-light.svg" width="100%" alt="19 contributions in the last 12 months"></picture>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-12m-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-12m-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-12m-dark.svg"><img src="assets/graph-12m-light.svg" width="100%" alt="603 contributions in the last 12 months"></picture>
 
 </details>
 
-<details><summary>2026: 19 contributions</summary>
+<details><summary>2026: 603 contributions</summary>
 
-<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2026-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2026-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2026-dark.svg"><img src="assets/graph-2026-light.svg" width="100%" alt="19 contributions in 2026"></picture>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2026-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2026-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2026-dark.svg"><img src="assets/graph-2026-light.svg" width="100%" alt="603 contributions in 2026"></picture>
 
 </details>
 
@@ -40,7 +40,7 @@
 
 </details>
 
-<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/line-30d-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/line-30d-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/line-30d-dark.svg"><img src="assets/line-30d-light.svg" width="100%" alt="14 contributions in the last 30 days"></picture>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/line-30d-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/line-30d-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/line-30d-dark.svg"><img src="assets/line-30d-light.svg" width="100%" alt="95 contributions in the last 30 days"></picture>
 
 <picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/whoami-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/whoami-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg"><img src="assets/whoami-light.svg" width="100%" alt="whoami: qasim, Senior Software Engineer @ Medsynthea, Lahore, Pakistan. I ship production healthcare systems — UI · API · data · integrations. Now: Healthcare RCM &amp; FHIR integrations at Medsynthea. Open to senior full-stack roles and freelance builds."></picture>
 
