@@ -47,6 +47,18 @@
   },
   "apps": [
     {
+      "id": "notecode",
+      "name": "Notecode",
+      "icon": "icons/notecode.png",
+      "line": "AI transcription to SOAP notes with medical coding & Stripe.",
+      "status": "shipped",
+      "chips": [["AI", "lx"], ["SOAP Notes", "bd"], ["Stripe", "li"]],
+      "fact": ["Transcription", "Medical coding"],
+      "tint": "rd",
+      "url": "https://notecode.medsynthea.com/login",
+      "repo": ""
+    },
+    {
       "id": "claim-checker",
       "name": "Claim Checker",
       "icon": "icons/claim-checker.png",
@@ -54,7 +66,7 @@
       "status": "shipped",
       "chips": [["Next.js", "lx"], ["Prisma", "bd"], ["EDI", "rd"]],
       "fact": ["language", "stars"],
-      "tint": "rd",
+      "tint": "bd",
       "url": "https://github.com/designerweb485/claim-checker",
       "repo": "claim-checker"
     },
@@ -66,7 +78,7 @@
       "status": "production",
       "chips": [["NestJS", "lx"], ["FHIR", "bd"], ["Integrations", "li"]],
       "fact": ["language", "Healthcare RCM"],
-      "tint": "bd",
+      "tint": "lx",
       "url": "https://medsynthea.com/",
       "repo": ""
     },
@@ -78,28 +90,16 @@
       "status": "shipped",
       "chips": [["Angular", "lx"], ["MongoDB", "bd"], ["EHR", "li"]],
       "fact": ["MEAN", "2023–2026"],
-      "tint": "lx",
-      "url": "https://docnow.ai/",
-      "repo": ""
-    },
-    {
-      "id": "tradin",
-      "name": "Tradin",
-      "icon": "icons/tradin.png",
-      "line": "PSX brokerage platform — full-stack product build.",
-      "status": "shipped",
-      "chips": [["Full stack", "lx"], ["FinTech", "bd"], ["PSX", "x"]],
-      "fact": ["Brokerage"],
       "tint": "x",
-      "url": "https://tradin.pk/",
+      "url": "https://docnow.ai/",
       "repo": ""
     }
   ],
   "more": [
+    {"name": "Tradin", "url": "https://tradin.pk/"},
     {"name": "ACSAS", "url": "https://acsas.co/"},
     {"name": "Ethisol", "url": "https://ethisol.com/"},
-    {"name": "Portfolio", "url": "https://github.com/designerweb485/qasim-afzal-portfolio"},
-    {"name": "Onlinefood", "url": "https://github.com/designerweb485/Onlinefood.com"}
+    {"name": "Portfolio", "url": "https://github.com/designerweb485/qasim-afzal-portfolio"}
   ],
   "now": [
     "Healthcare RCM & FHIR integrations at Medsynthea",
