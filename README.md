@@ -54,5 +54,3 @@
 </p>
 
 <p align="center"><sub>More ships: <a href="https://acsas.co/">ACSAS</a> · <a href="https://ethisol.com/">Ethisol</a> · <a href="https://github.com/designerweb485/qasim-afzal-portfolio">Portfolio</a> · <a href="https://github.com/designerweb485/Onlinefood.com">Onlinefood</a></sub></p>
-
-<p align="center"><sub>Drawn in the ZazaG-style sticker design system · numbers redrawn by a GitHub Action · <a href="https://www.linkedin.com/in/muhammad-qasim-afzal/">LinkedIn</a> · <a href="https://github.com/designerweb485">GitHub</a></sub></p>
