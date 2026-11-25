@@ -1,0 +1,108 @@
+{
+  "_about": "Hand-kept facts for the Muhammad Qasim Afzal profile. Live numbers come from scripts/fetch.py.",
+  "user": "designerweb485",
+  "display_name": "Qasim",
+  "logo_initials": "QA",
+  "terminal_host": "qasim@lahore",
+  "whoami_line": "I ship production healthcare systems — UI · API · data · integrations.",
+  "tags": [
+    ["Healthcare", "rd"],
+    ["FHIR", "bd"],
+    ["SaaS", "lx"],
+    ["Full stack", "li"]
+  ],
+  "created": {
+    "value": "2020-06-09",
+    "source": "GitHub account / profile repo",
+    "as_of": "2026-11-26"
+  },
+  "tagline": {
+    "value": "Senior Full-Stack Engineer building healthcare systems and SaaS.",
+    "as_of": "2026-11-26"
+  },
+  "location": {
+    "value": "Lahore, Pakistan",
+    "as_of": "2026-11-26"
+  },
+  "role": {
+    "value": "Senior Software Engineer @ Medsynthea",
+    "as_of": "2026-11-26"
+  },
+  "links": {
+    "github": {
+      "label": "GitHub",
+      "handle": "@designerweb485",
+      "url": "https://github.com/designerweb485"
+    },
+    "linkedin": {
+      "label": "LinkedIn",
+      "handle": "muhammad-qasim-afzal",
+      "url": "https://www.linkedin.com/in/muhammad-qasim-afzal/"
+    },
+    "web": {
+      "label": "Web",
+      "handle": "medsynthea.com",
+      "url": "https://medsynthea.com/"
+    }
+  },
+  "apps": [
+    {
+      "id": "claim-checker",
+      "name": "Claim Checker",
+      "icon": "icons/claim-checker.png",
+      "line": "Synthetic X12 837P validation — rules, org-scoped API, findings CSV.",
+      "status": "shipped",
+      "chips": [["Next.js", "lx"], ["Prisma", "bd"], ["EDI", "rd"]],
+      "fact": ["language", "stars"],
+      "tint": "rd",
+      "url": "https://github.com/designerweb485/claim-checker",
+      "repo": "claim-checker"
+    },
+    {
+      "id": "medsynthea",
+      "name": "Medsynthea",
+      "icon": "icons/medsynthea.png",
+      "line": "US healthcare RCM — FHIR R4, Epic, Stedi, Optum, X12 270/271.",
+      "status": "production",
+      "chips": [["NestJS", "lx"], ["FHIR", "bd"], ["Integrations", "li"]],
+      "fact": ["language", "Healthcare RCM"],
+      "tint": "bd",
+      "url": "https://medsynthea.com/",
+      "repo": ""
+    },
+    {
+      "id": "docnow",
+      "name": "DocNow",
+      "icon": "icons/docnow.png",
+      "line": "Post-acute EHR — Angular, Node, MongoDB, JWT, RBAC.",
+      "status": "shipped",
+      "chips": [["Angular", "lx"], ["MongoDB", "bd"], ["EHR", "li"]],
+      "fact": ["MEAN", "2023–2026"],
+      "tint": "lx",
+      "url": "https://docnow.ai/",
+      "repo": ""
+    },
+    {
+      "id": "tradin",
+      "name": "Tradin",
+      "icon": "icons/tradin.png",
+      "line": "PSX brokerage platform — full-stack product build.",
+      "status": "shipped",
+      "chips": [["Full stack", "lx"], ["FinTech", "bd"], ["PSX", "x"]],
+      "fact": ["Brokerage"],
+      "tint": "x",
+      "url": "https://tradin.pk/",
+      "repo": ""
+    }
+  ],
+  "more": [
+    {"name": "ACSAS", "url": "https://acsas.co/"},
+    {"name": "Ethisol", "url": "https://ethisol.com/"},
+    {"name": "Portfolio", "url": "https://github.com/designerweb485/qasim-afzal-portfolio"},
+    {"name": "Onlinefood", "url": "https://github.com/designerweb485/Onlinefood.com"}
+  ],
+  "now": [
+    "Healthcare RCM & FHIR integrations at Medsynthea",
+    "Open to senior full-stack roles and freelance builds"
+  ]
+}

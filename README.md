@@ -1,100 +1,76 @@
-<!--
-  Upload BOTH files to designerweb485/designerweb485 repo root:
-  - README.md  (this file)
-  - github_header.jpg  (short 1280×168 banner — NOT the old tall 16:9)
--->
+<a href="https://github.com/designerweb485"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/hero-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/hero-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Qasim. Senior Full-Stack Engineer building healthcare systems and SaaS."></picture></a>
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/designerweb485"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-gh-dark.svg"><img src="assets/badge-gh-light.svg" height="44" alt="GitHub @designerweb485"></picture></a>
+<a href="https://www.linkedin.com/in/muhammad-qasim-afzal/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-li-dark.svg"><img src="assets/badge-li-light.svg" height="44" alt="LinkedIn muhammad-qasim-afzal"></picture></a>
+<a href="https://medsynthea.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-web-dark.svg"><img src="assets/badge-web-light.svg" height="44" alt="Web medsynthea.com"></picture></a>
+</p>
 
-<img src="github_header.jpg" width="900" alt="Muhammad Qasim Afzal" />
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/github-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/github-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg"><img src="assets/github-light.svg" width="100%" alt="On GitHub: 19 contributions in the last year, no streak right now, longest streak 2 days, 41 contributions since 2020, 6 public repos, 0 stars earned, 0 downloads of my releases."></picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=1100&color=22D3EE&center=true&vCenter=true&width=640&height=32&lines=Senior+Full-Stack+Engineer;Healthcare+systems+%26+SaaS;Open+to+roles+%26+freelance+builds" alt="typing" />
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-6m-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-6m-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-6m-dark.svg"><img src="assets/graph-6m-light.svg" width="100%" alt="19 contributions in the last 6 months"></picture>
 
-<br/>
+<details><summary>Last 12 months: 19 contributions</summary>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-qasim-afzal/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/designerweb485)
-[![Medsynthea](https://img.shields.io/badge/Building%20at-Medsynthea-14B8A6?style=flat-square)](https://medsynthea.com/)
-[![Available](https://img.shields.io/badge/Status-Open%20to%20work-22C55E?style=flat-square)](https://www.linkedin.com/in/muhammad-qasim-afzal/)
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-12m-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-12m-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-12m-dark.svg"><img src="assets/graph-12m-light.svg" width="100%" alt="19 contributions in the last 12 months"></picture>
 
-<br/>
+</details>
 
-I ship **production healthcare systems** end-to-end — UI · API · data · integrations · deploy  
-Lahore, Pakistan · 6+ years
+<details><summary>2026: 19 contributions</summary>
 
-</div>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2026-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2026-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2026-dark.svg"><img src="assets/graph-2026-light.svg" width="100%" alt="19 contributions in 2026"></picture>
 
----
+</details>
 
-### Featured project
+<details><summary>2025: 0 contributions</summary>
 
-#### [Claim Checker](https://github.com/designerweb485/claim-checker) — Synthetic X12 837P validation
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2025-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2025-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2025-dark.svg"><img src="assets/graph-2025-light.svg" width="100%" alt="0 contributions in 2025"></picture>
 
-Medical billing teams catch structural EDI mistakes late.  
-Deterministic rules · org-scoped API · upload → parse → validate → findings → CSV
+</details>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/designerweb485/claim-checker/main/docs/screenshots/02-dashboard.png" width="380" alt="Dashboard" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/designerweb485/claim-checker/main/docs/screenshots/04-findings.png" width="380" alt="Findings" />
-</div>
+<details><summary>2024: 0 contributions</summary>
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2024-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2024-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2024-dark.svg"><img src="assets/graph-2024-light.svg" width="100%" alt="0 contributions in 2024"></picture>
 
-<div align="center">
+</details>
 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/designerweb485/claim-checker)
-[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/designerweb485/claim-checker)
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://github.com/designerweb485/claim-checker)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/designerweb485/claim-checker)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/designerweb485/claim-checker)
+<details><summary>2023: 0 contributions</summary>
 
-[Repo](https://github.com/designerweb485/claim-checker) · [Case study](https://github.com/designerweb485/claim-checker/blob/main/docs/case-study.md) · [Demo](https://github.com/designerweb485/claim-checker/blob/main/docs/demo.md)
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2023-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2023-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2023-dark.svg"><img src="assets/graph-2023-light.svg" width="100%" alt="0 contributions in 2023"></picture>
 
-<sub>Synthetic fixtures only · Not HIPAA / X12 IG certified</sub>
+</details>
 
-</div>
+<details><summary>2022: 3 contributions</summary>
 
----
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2022-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2022-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2022-dark.svg"><img src="assets/graph-2022-light.svg" width="100%" alt="3 contributions in 2022"></picture>
 
-### Experience
+</details>
 
-<img src="https://img.shields.io/badge/2026–Present-0F172A?style=flat-square" alt="" /> **[Medsynthea](https://medsynthea.com/)** · Senior Software Engineer  
-FHIR R4 · Epic · Athena · eCW · Oracle Health · Office Ally · X12 270/271 · Stedi · Availity · Optum
+<details><summary>2021: 4 contributions</summary>
 
-<img src="https://img.shields.io/badge/2026–Present-0F172A?style=flat-square" alt="" /> **[Ethisol](https://ethisol.com/)** · Full-Stack (Contract)  
-MERN · Laravel · AWS
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2021-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2021-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2021-dark.svg"><img src="assets/graph-2021-light.svg" width="100%" alt="4 contributions in 2021"></picture>
 
-<img src="https://img.shields.io/badge/2023–2026-0F172A?style=flat-square" alt="" /> **[DocNow](https://docnow.ai/)** · MEAN Stack Developer  
-Post-acute EHR · Angular · Node.js · MongoDB · JWT · RBAC
+</details>
 
----
+<details><summary>2020: 15 contributions</summary>
 
-### Also shipped
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-2020-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-2020-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-2020-dark.svg"><img src="assets/graph-2020-light.svg" width="100%" alt="15 contributions in 2020"></picture>
 
-[![Tissue ERP](https://img.shields.io/badge/Tissue%20ERP-Velvex%20private-14B8A6?style=for-the-badge)](https://www.linkedin.com/in/muhammad-qasim-afzal/)
-[![Tradin](https://img.shields.io/badge/Tradin-PSX%20brokerage-3B82F6?style=for-the-badge)](https://tradin.pk/)
-[![ACSAS](https://img.shields.io/badge/ACSAS-Fractional%20CFO-6366F1?style=for-the-badge)](https://acsas.co/)
+</details>
 
----
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/line-30d-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/line-30d-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/line-30d-dark.svg"><img src="assets/line-30d-light.svg" width="100%" alt="14 contributions in the last 30 days"></picture>
 
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/whoami-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/whoami-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg"><img src="assets/whoami-light.svg" width="100%" alt="whoami: qasim, Senior Software Engineer @ Medsynthea, Lahore, Pakistan. I ship production healthcare systems — UI · API · data · integrations. Now: Healthcare RCM &amp; FHIR integrations at Medsynthea. Open to senior full-stack roles and freelance builds."></picture>
 
-### Stack
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/label-ship-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/label-ship-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/label-ship-dark.svg"><img src="assets/label-ship-light.svg" width="100%" alt="What I ship"></picture>
 
-<img src="https://skillicons.dev/icons?i=ts,react,angular,nextjs,nodejs,nestjs,express,postgres,mongodb,prisma,aws,docker,github&theme=dark" alt="Stack" />
+<p align="center">
+<a href="https://github.com/designerweb485/claim-checker"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/app-claim-checker-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/app-claim-checker-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/app-claim-checker-dark.svg"><img src="assets/app-claim-checker-light.svg" width="49%" alt="Claim Checker: Synthetic X12 837P validation — rules, org-scoped API, findings CSV. Shipped, TypeScript."></picture></a>
+<a href="https://medsynthea.com/"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/app-medsynthea-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/app-medsynthea-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/app-medsynthea-dark.svg"><img src="assets/app-medsynthea-light.svg" width="49%" alt="Medsynthea: US healthcare RCM — FHIR R4, Epic, Stedi, Optum, X12 270/271. Production, Healthcare RCM."></picture></a>
+<a href="https://docnow.ai/"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/app-docnow-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/app-docnow-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/app-docnow-dark.svg"><img src="assets/app-docnow-light.svg" width="49%" alt="DocNow: Post-acute EHR — Angular, Node, MongoDB, JWT, RBAC. Shipped, MEAN, 2023–2026."></picture></a>
+<a href="https://tradin.pk/"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/app-tradin-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/app-tradin-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/app-tradin-dark.svg"><img src="assets/app-tradin-light.svg" width="49%" alt="Tradin: PSX brokerage platform — full-stack product build. Shipped, Brokerage."></picture></a>
+</p>
 
-</div>
+<p align="center"><sub>More ships: <a href="https://acsas.co/">ACSAS</a> · <a href="https://ethisol.com/">Ethisol</a> · <a href="https://github.com/designerweb485/qasim-afzal-portfolio">Portfolio</a> · <a href="https://github.com/designerweb485/Onlinefood.com">Onlinefood</a></sub></p>
 
----
-
-<div align="center">
-
-### Let's build
-
-Open to **senior full-stack roles** and **freelance product builds**
-
-[![Talk on LinkedIn](https://img.shields.io/badge/Talk_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-qasim-afzal/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/designerweb485)
-
-</div>
+<p align="center"><sub>Drawn in the ZazaG-style sticker design system · numbers redrawn by a GitHub Action · <a href="https://www.linkedin.com/in/muhammad-qasim-afzal/">LinkedIn</a> · <a href="https://github.com/designerweb485">GitHub</a></sub></p>
