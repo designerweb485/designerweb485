@@ -8,8 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/github-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/github-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg"><img src="assets/github-light.svg" width="100%" alt="On GitHub: 19 contributions in the last year, no streak right now, longest streak 2 days, 41 contributions since 2020, 6 public repos, 0 stars earned, 0 downloads of my releases."></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg"><img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution city"></picture>
-
 <picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/graph-6m-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-6m-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-6m-dark.svg"><img src="assets/graph-6m-light.svg" width="100%" alt="19 contributions in the last 6 months"></picture>
 
 <details><summary>Last 12 months: 19 contributions</summary>

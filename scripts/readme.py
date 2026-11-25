@@ -47,16 +47,6 @@ def render(data, P):
         badges.append(link(meta["url"], picture(f"badge-{name}", "h44", alt)))
     out += ['<p align="center">', *badges, "</p>", ""]
     out += [picture("github", "100%", board_label(data), "github" in PHONE), ""]
-    # 3D contribution city (drawn by the Action into profile-3d-contrib/)
-    out += [
-        '<picture>'
-        '<source media="(prefers-color-scheme: dark)" '
-        'srcset="profile-3d-contrib/profile-night-view.svg">'
-        '<img src="profile-3d-contrib/profile-night-view.svg" width="100%" '
-        'alt="3D contribution city">'
-        '</picture>',
-        "",
-    ]
     for key, summary, total, title in graph_titles(data, date.fromisoformat(data["today"])):
         pic = picture(f"graph-{key}", "100%", title, True)
         if summary is None:

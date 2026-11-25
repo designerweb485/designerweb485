@@ -1,8 +1,8 @@
-name: GitHub-Profile-3D-Contrib
+name: Profile cards
 
 on:
   schedule:
-    # Runs daily at 18:00 UTC (11:00 PM PKT)
+    # Daily 18:00 UTC (~11 PM PKT)
     - cron: "0 18 * * *"
   workflow_dispatch:
   push:
@@ -16,10 +16,9 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate 3D Contribution City
+    name: Build profile cards
 
     steps:
-      # Use built-in token for checkout/push (needs repo Actions = Read and write)
       - name: Checkout Repository
         uses: actions/checkout@v4
 
@@ -32,15 +31,8 @@ jobs:
       - name: Install build deps
         run: pip install -r scripts/requirements.txt
 
-      # PROFILE_TOKEN only for GitHub API (private activity). Do NOT use it to push —
-      # fine-grained PATs often get 403 on git push.
-      - name: Generate 3D Contribution Profile
-        uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: profile-3d-contrib/teal-settings.json
-
+      # PROFILE_TOKEN lifts rate limit + can include private contribs when
+      # GitHub setting "Include private contributions on my profile" is on.
       - name: Build profile cards
         id: cards
         run: python scripts/build.py
@@ -52,12 +44,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A profile-3d-contrib/ assets README.md scripts/state.json
+          git add -A assets README.md scripts/state.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "Auto-update profile cards and 3D contribution city"
+          git commit -m "Auto-update profile cards"
           git push
 
       - name: Fail when card build failed
